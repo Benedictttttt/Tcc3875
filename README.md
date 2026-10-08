@@ -1,2 +1,2 @@
 # Codes for Research Log in Nuclear and Hadron Physics (NHP) Team 
-## Focusing on the pole analysis of $T_{cc}(3875)^+$ using two and three-channel $K$-matrix formalisms
+## Focusing on the pole analysis of $T_{cc}(3875)^+$ using two and three-channel $K$-matrix formalisms: Frazer-Hendry (1964) and Chew-Mandelstam function formalism.
